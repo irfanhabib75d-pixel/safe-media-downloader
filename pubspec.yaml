@@ -1,0 +1,48 @@
+name: permission_media_downloader
+description: "A permission-first, official API media downloader for Android and iOS."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # Networking & Security
+  http: ^1.2.1
+  flutter_secure_storage: ^9.0.0
+  crypto: ^3.0.3
+
+  # Storage & Files
+  path_provider: ^2.1.2
+  path: ^1.9.0
+  shared_preferences: ^2.2.3
+
+  # System Interop & Media
+  share_plus: ^9.0.0
+  open_filex: ^4.4.0
+  url_launcher: ^6.2.6
+
+  # Notifications (Platform approved foreground progress)
+  flutter_local_notifications: ^17.1.1
+
+  # UI & Utilities
+  intl: ^0.19.0
+  uuid: ^4.3.3
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
+    - assets/images/

@@ -1,0 +1,68 @@
+PROPRIETARY COMMERCIAL SOFTWARE LICENSE
+
+Copyright (c) [YEAR] [COMPANY_OR_OWNER_NAME]. All Rights Reserved.
+
+IMPORTANT: PLEASE READ THIS SOFTWARE LICENSE AGREEMENT CAREFULLY BEFORE USING,
+MODIFYING, OR DISTRIBUTING THIS SOFTWARE APPLICATION ("SOFTWARE").
+
+1. DEFINITIONS
+"Licensor" means [COMPANY_OR_OWNER_NAME], an entity organized under the laws
+of [JURISDICTION_STATE_COUNTRY], with its principal place of business at
+[COMPANY_PHYSICAL_ADDRESS].
+"Licensee" means the individual or entity that has obtained a legitimate
+commercial license to use the Software.
+"Software" means the Safe Media Downloader source code, binaries, documentation,
+assets, and associated material created by Licensor.
+
+2. GRANT OF LICENSE
+Subject to the terms and conditions of this Agreement and payment of applicable
+license fees, Licensor hereby grants to Licensee a [NON-EXCLUSIVE / EXCLUSIVE],
+[NON-TRANSFERABLE / TRANSFERABLE], [WORLDWIDE / REGIONAL] commercial license to:
+(a) Install and run the Software on authorized mobile devices;
+(b) Integrate, compile, and distribute the Software within Licensee's commercial products;
+(c) Customize and brand the user interface, subject to the trademark provisions herein.
+
+3. RESTRICTIONS
+Licensee shall NOT:
+(a) Modify the Software to circumvent platform Terms of Service, copyright protection,
+    digital rights management (DRM), or access control mechanisms;
+(b) Add automated web scrapers or unauthorized stream extractors that violate third-party
+    platform agreements;
+(c) Remove, obscure, or alter any copyright notices, trademark attributions, or patent
+    markings from the source code or documentation;
+(d) Sublicense, lease, or rent the source code without express written authorization from Licensor.
+
+4. INTELLECTUAL PROPERTY OWNERSHIP
+The Software, including all patents, copyrights, trade secrets, and trademarks, is and shall
+remain the sole property of Licensor. This Agreement grants Licensee limited rights of use
+and does not convey any ownership interest in the Software.
+
+5. THIRD-PARTY DEPENDENCIES
+Certain components of the Software are open-source software libraries licensed under
+their respective permissive licenses (e.g., MIT, BSD, Apache 2.0). A full inventory
+of third-party licenses is provided in THIRD_PARTY_LICENSES.md.
+
+6. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NONINFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL MEET
+LICENSEE'S REQUIREMENTS OR THAT OPERATION WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+7. LIMITATION OF LIABILITY
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, PUNITIVE,
+OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING LOSS OF PROFITS, DATA LOSS, OR BUSINESS
+INTERRUPTION) ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE.
+
+8. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by, and construed in accordance with, the laws of
+[GOVERNING_JURISDICTION_COUNTRY], without regard to its conflict of law principles.
+Any dispute arising hereunder shall be subject to the exclusive jurisdiction of the
+courts located in [ARBITRATION_CITY_OR_COURT_VENUE].
+
+9. CONTACT INFORMATION
+For licensing inquiries, custom enterprise terms, or commercial support, please contact:
+Entity: [COMPANY_OR_OWNER_NAME]
+Contact Person: [LEGAL_OR_BUSINESS_CONTACT_NAME]
+Email: [CONTACT_EMAIL_ADDRESS]
+Website: [COMPANY_WEBSITE_URL]
+Address: [COMPANY_PHYSICAL_ADDRESS]
